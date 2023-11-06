@@ -1,0 +1,53 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Pixelify+Sans&family=Sedgwick+Ave+Display&family=Zeyada&display=swap');
+
+body{
+    background-image: url(
+        https://i.pinimg.com/originals/43/3d/83/433d83f7e481f35245f8c6bb7c7591d8.gif
+);
+    
+}
+
+.logo{
+    text-align: center;
+  font-family:Pixelify Sans;
+  font-size: 30px;
+   
+
+}
+.search{
+    margin-top: 150px; 
+    margin-left: 500px;
+    font-family:Zeyada;
+
+}
+
+
+#search-button{
+    border-radius: 5px;
+    color: black;
+    text-align: center;
+    font-family:Abril Fatface;
+}
+
+#movies-wrapper{
+  width: 80%;
+  margin: 30px auto;
+  display: flex;
+  flex-wrap: wrap;
+  font-family:open Sans;
+  color:white;
+
+}
+.movie-card{
+  width: calc(24.7% - 32px);
+  margin: 15px;
+  border: 2px solid black;
+  text-align: center;
+}
+
+.movie-poster{
+  width: 100%;
+  height: 250px;
+}
+

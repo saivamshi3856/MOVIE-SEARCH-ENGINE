@@ -1,0 +1,174 @@
+
+body{
+    margin: 0px;
+}
+
+#header{
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding-top: 20px ;
+font-size: 25px;
+font-family: Outfit, sans-serif;
+font-family: 'Quicksand', sans-ser
+}
+
+
+#elements a{
+    padding: 0px 20px;
+}
+#power-icon{
+    padding: 0px 0px;
+    text-align: center;
+    font-family: 'Quicksand', sans-ser
+    
+}
+
+.title{
+display: flex;
+justify-content: center;
+align-items: center;
+    font-size: 45px;
+    color: rgb(94, 94, 255);
+    text-shadow: 2px 2px 2px;
+    font-family: 'Quicksand', sans-ser
+
+}
+.background{
+   
+    display: block;
+    min-height: 500px;
+    background-size: cover;
+  background-image: url(./images/power.gif);
+  font-family: 'Quicksand', sans-ser
+}
+.font {
+    background-color: #6ea7fc;
+    text-align: center;
+    background-image: url(https://mobirise.com/extensions/globalm5/power-generation-company/assets/images/background3.jpg);
+    height: 257.719px;
+    font-size: 42.4107px;
+    color:#124ad6 ;
+    font-family: 'Quicksand', sans-ser
+
+}
+.sub-font{
+    font-size: 20.6px;
+    font-weight: 400;
+    color: white;
+    font-family: 'Quicksand', sans-ser
+}
+
+.wrapper{
+    background-color: #124ad6;
+    height: 400px;
+    color: white;
+    margin: 0px 160px;
+    padding: 60px;
+    margin-left: 650px;
+    margin-top: 112px;
+    font-size: 22.4px;
+    text-align: center;
+    font-family: 'Quicksand', sans-ser
+   
+    
+}
+.charging-car{
+    margin-left: 100px;
+    margin-top: -300px;
+    margin-bottom: 100px;
+    font-family: 'Quicksand', sans-ser
+}
+.Worldwibe{
+    padding: 100px 160px;
+   font-size: 32px;
+   display: flex;
+   background-color: #3361d6;
+   font-family: 'Quicksand', sans-ser
+}
+
+.company{
+    padding-left:200px;
+    color: white;
+  font-size: 20px;
+  padding-top: 35px;
+  font-family: 'Quicksand', sans-ser
+
+  
+}
+.company:hover{
+color: black    ;
+font-family: 'Quicksand', sans-ser
+}
+.percentage{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px;
+    color: white;
+    background-color: #3361d6;
+    margin-bottom: 60px;
+    font-size: 25px;
+    font-family: 'Quicksand', sans-ser
+}
+.para{
+ font-size: 20px;
+ font-family: 'Quicksand', sans-ser
+ 
+}
+.headind-1{
+    padding-left: 50px;
+    text-align: center;
+    font-family: 'Quicksand', sans-ser
+}
+.blog-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Quicksand', sans-ser
+}
+.blogcard{
+    margin-top: 40px;
+    margin-left: 80px;
+    padding: 0px 20px;
+    font-family: 'Quicksand', sans-ser
+}
+.house{
+    padding: 80px 150px;
+    font-family: 'Quicksand', sans-ser
+}
+
+.wrapper-various{
+    background-color: #124ad6;
+    height: 600px;
+    width: 400px;
+    color: white;
+    margin: 0px 160px;
+    padding: 60px;
+    margin-left: 600px;
+    margin-top: 112px;
+    font-size: 22.4px;
+    font-family: 'Quicksand', sans-ser
+ 
+}
+.various-houses{
+    margin-left: 100px;
+    margin-top: -600px;
+    margin-bottom: 100px;
+    font-family: 'Quicksand', sans-ser
+}
+.form{
+    background-color: rgb(175, 173, 173);
+    display: flex;
+    text-align: center;
+    padding-left: 200px;
+    padding-top: 50px;
+    font-family: 'Quicksand', sans-ser
+}
+.write{
+padding-top: 150px;
+font-family: 'Quicksand', sans-ser
+
+}
+.forms-holder{
+    padding-left:400px ;
+    font-family: 'Quicksand', sans-ser
+}
